@@ -10,3 +10,6 @@ sentence-transformers
 tqdm
 pandas
 langchain_community
+fastapi
+uvicorn
+redis
